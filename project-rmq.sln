@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project-rmq", "project-rmq\project-rmq.csproj", "{AB6D24FB-8FDA-423F-879E-464101856172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RmqClient", "RmqClient\RmqClient.csproj", "{47E3E10D-EA32-4130-B92C-C048ED75F6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6D24FB-8FDA-423F-879E-464101856172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6D24FB-8FDA-423F-879E-464101856172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6D24FB-8FDA-423F-879E-464101856172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6D24FB-8FDA-423F-879E-464101856172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E3E10D-EA32-4130-B92C-C048ED75F6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E3E10D-EA32-4130-B92C-C048ED75F6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E3E10D-EA32-4130-B92C-C048ED75F6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E3E10D-EA32-4130-B92C-C048ED75F6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2637D58E-37CC-4C93-93BC-2D4088525F37}
+	EndGlobalSection
+EndGlobal
